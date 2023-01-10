@@ -43,3 +43,12 @@ body
 #post {
     padding: 1em;
 }
+
+#footer {
+    color: blue;
+    text-align: center; 
+    font-family: "Arial";
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
